@@ -67,6 +67,7 @@
 - [Mohammad Palla](https://github.com/Mohammad-Palla)
 - [Valeria Marin](https://github.com/Valvalvaal)
 - [Sebastien Devoir](https://github.com/SebastienDevoir)
+- [Rohit Sharma]
 - [Ayan Ali](https://github.com/Yawnnnnnn)
 - [Ekkoz897](https://github.com/ekkoz897)
 - [Moshe tesler](https://github.com/tesler77)
