@@ -6,6 +6,7 @@
 - [d-kanti](https://github.com/d-kanti)
 - [mithindev](https://github.com/mithindev)
 - [Sivnerof](https://github.com/Sivnerof)
+- king 
 - [Rajkumar Dongre](https://github.com/rajkumardongre)
 - [Washington Aguirre D](https://github.com/Washi92)
 - [Rohit Rajvaidya](https://github.com/RohitRajvaidya5)
